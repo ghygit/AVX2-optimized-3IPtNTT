@@ -36,4 +36,4 @@
 #define Bit_mov 12
 /**/
 #define TI_TEST 65536
-#define FREQ_CPU 2500000000//change this according to the frequency of the computer
+#define FREQ_CPU 2684354560//change this according to the frequency of the computer
